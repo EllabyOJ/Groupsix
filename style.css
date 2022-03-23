@@ -135,3 +135,6 @@ header{
     background-size: cover;
     height: 70vh;
 }
+.reps{
+    border-radius: 25px;
+}
