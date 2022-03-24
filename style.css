@@ -37,9 +37,6 @@ body{
 .section1{
    padding: 7rem 11rem;
 }
-.vetted{
-    padding-left: 400px;
-}
 #btn{
     background-color: #FE9C0A;
     margin-left: -4.8rem;
@@ -79,7 +76,6 @@ body{
     }
     .for-p{
         padding-top: 50px;
-    
     }
 }
 .flex-card{
